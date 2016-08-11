@@ -1,4 +1,4 @@
-package com.jeocloud.algorithms;
+package com.jeocloud.algorithms.array;
 
 import org.junit.Test;
 
